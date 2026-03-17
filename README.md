@@ -16,4 +16,4 @@ Migrar para uma posição de **Desenvolvedor Júnior ou Analista de Dados**, bus
 ---
 
 📫 **Como me encontrar:**
-[LinkedIn](https://www.linkedin.com/in/alexandre-braga-a152203b8/) | [E-mail](alebraga.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alexandre-braga-a152203b8/) | [E-mail](mailto:alebraga.dev@gmail.com)
