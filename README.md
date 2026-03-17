@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Alexandre Braga! 👋
 
-<!--
-**DevBraga-Sky/DevBraga-Sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Ftec e entusiasta da tecnologia. 
 
-Here are some ideas to get you started:
+### 🚗 Sobre mim
+Atualmente trabalho como **Eletricista Automotivo**, onde desenvolvi uma forte base em resolução de problemas complexos e lógica de sistemas. Estou em transição de carreira para a área de TI, unindo minha experiência técnica com o desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ O que estou estudando:
+*   **Linguagem:** Python (Iniciante)
+*   **Banco de Dados:** SQL
+*   **Foco Atual:** Lógica de programação e automação de tarefas.
+
+### 📈 Meu Objetivo
+Migrar para uma posição de **Desenvolvedor Júnior ou Analista de Dados**, buscando oportunidades remotas ou híbridas que me permitam aplicar meu raciocínio lógico na criação de soluções digitais.
+
+---
+
+📫 **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/alexandre-braga-a152203b8/) | [E-mail](alebraga.dev@gmail.com)
